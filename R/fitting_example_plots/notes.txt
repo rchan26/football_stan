@@ -1,0 +1,1 @@
+Note that in the model, a lower defence parameter implies a better defensive ability of that team.
